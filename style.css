@@ -1,0 +1,41 @@
+.container{display: flex;flex-direction: row;justify-content: flex-start;}
+.item-1{display: flex;margin-right: 90px;}
+.matn-left{display: flex;margin-left: 30px;padding: 5px;border-radius: 16px;color: blue;
+:hover{color: blue;};}
+.left{display: flex;flex-direction: row;margin-right: 41%;}
+.ax{margin-right: 60px;}
+.section{display: flex;}
+.matn-right{line-height: 2;font-size: larger;}
+* {box-sizing: border-box;}
+.ax2{margin-right: 107px;}
+.item-miani{display: flex;border: 2px solid black; width: 50px;display: flex;width: 50%;height: 340px;margin-left: 10px;margin-top: 40px
+;padding: 9px;border-radius: 15px;font-size: larger;}
+.miani{display: flex;flex-direction: row;justify-content: center;display: flex;flex-direction: column;align-content: center;background-color: rgb(165, 203, 216);}
+.matn-miani{display: flex;justify-content: center;font-size: xx-large;text-align: justify;}
+
+.asli{display: flex;padding: 10px;margin-top: -15px;}
+.host-abri{ display: flex; width: 67%; height: 300px;margin-top: 17px;flex-direction: row;}
+.matn-host{display: flex;margin-left: 134px; line-height: 3;}
+.anva{display: flex;flex-direction: row;}
+.wordpress{display: flex;flex-direction: row;}
+.miani{text-align: justify;}
+
+
+    
+
+
+
+    
+    
+
+
+
+
+    
+
+
+  
+
+
+   
+
